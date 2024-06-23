@@ -2,7 +2,7 @@
 - # Hi there, I'm Junit Surani 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/junitsurani?label=Follow&style=social)](https://github.com/junitsurani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junit-surani-817173296)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junit-surani-817173296) -->
 
 
 - 👀 I’m interested in full stack development, mobile app development, and innovative tech solutions.
