@@ -1,8 +1,15 @@
 
 - # Hi there, I'm Junit Surani 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/junitsurani?label=Follow&style=social)](https://github.com/junitsurani)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junit-surani-817173296) -->
+<a href="https://github.com/junitsurani">
+    <img src="https://img.shields.io/github/followers/junitsurani?label=Follow&style=social" alt="GitHub" style="width: 150px; height: 25px;">
+</a>
+<!-- <a href="https://www.linkedin.com/in/junit-surani-817173296">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" style="width: 150px; height: 25px;">
+</a> -->
+<a href="https://junitsurani.co">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-yellow" alt="Portfolio"style="vertical-align: middle; width: 150px; height: 25px;">
+</a>
 
 
 - 👀 I’m interested in full stack development, mobile app development, and innovative tech solutions.
