@@ -4,12 +4,12 @@
 <a href="https://github.com/junitsurani">
     <img src="https://img.shields.io/github/followers/junitsurani?label=Follow&style=social" alt="GitHub" style="width: 150px; height: 25px;">
 </a>
-<!-- <a href="https://www.linkedin.com/in/junit-surani-817173296">
+<a href="https://www.linkedin.com/in/junit-surani-817173296">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" style="width: 150px; height: 25px;">
-</a> -->
-<a href="https://junitsurani.co">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-yellow" alt="Portfolio"style="vertical-align: middle; width: 150px; height: 25px;">
 </a>
+<!-- <a href="https://junitsurani.co">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-yellow" alt="Portfolio"style="vertical-align: middle; width: 150px; height: 25px;">
+</a> -->
 
 
 - 👀 I’m interested in full stack development, mobile app development, and innovative tech solutions.
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a results-driven Full Stack and Mobile App Dev
 ## 🚀 About Me
 
 
-- 📍 Based in Chh Sambhaji Nagar, Maharashtra
+- 📍 Based in Morbi, Gujarat
 - 🎓 Pursuing a Bachelor of Computer Science at Deogiri Institute of Engineering and Management Studies (Expected 2025, CGPA: 8.35)
 - 💻 Passionate about software development, always eager to learn and improve
 
@@ -88,7 +88,6 @@ Welcome to my GitHub profile! I'm a results-driven Full Stack and Mobile App Dev
 ## 📫 Contact Me
 
 - 📧 Email: [junitsurani@gmail.com](mailto:junitsurani@gmail.com)
-- 🌐 Portfolio: [junitsurani.co](https://junitsurani.co)
 - 👨‍💻 GitHub: [github.com/junitsurani](https://github.com/junitsurani)
 - 📊 Leetcode: [leetcode.com/u/junitsurani](https://leetcode.com/u/junitsurani/)
 
