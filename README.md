@@ -11,7 +11,7 @@
 - 👀 I focus on **full-stack delivery**, **backend systems**, and **AI-driven APIs** that automate workflows and hold up in production.
 - 🌱 I work across **Next.js**, **TypeScript**, **Python (FastAPI, Flask, Django)**, **PostgreSQL**, **Redis**, and **real-time** features (WebSockets).
 - 💞️ I’m open to collaborations on **product engineering**, **open source**, and **hackathons**.
-- 📫 Reach me: [junitsurani@gmail.com](mailto:junitsurani@gmail.com) · **+91 86690 48966**
+- 📫 Reach me: [junitsurani@gmail.com](mailto:junitsurani@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ I enjoy turning complex requirements into clear, shippable software.
 
